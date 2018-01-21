@@ -19,6 +19,7 @@ If you'd like to get involved in mentoring please [contact us](mailto:harrogate.
 ### Resources
 
 *Session #2 (Feb 18)* - We will be doing more game programming using Scratch, Pygame, Unity3D
+
 Session #1 (Jan 18) - We coded using Scratch, Pygame, Mindstorms & Unreal Engine
 
 - (Scratch)[https://scratch.mit.edu]
