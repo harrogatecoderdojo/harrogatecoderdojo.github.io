@@ -4,36 +4,14 @@ We're a new Dojo and meet on 3rd Wednesday at Harrogate Library.
 
 You can book your free place by visiting out [CoderDojo page](https://www.coderdojo.com/harrogate/harrogate-harrogate-library)
 
+Our next meeting is on Wednesday 21 Febraury 2018 starting at 5pm and finishing promptly at 7pm when the library closes.
 
+Please bring:
+- A laptop. Borrow one from somebody if needs be. If you can't get hold of one, come along anyway and we'll try to lend you one or you can work with another Ninja.
+- Some ideas. If you have a great idea, we'll help you develop and code it. If you're a bit stuck, we'll help you with some project ideas.
+- A parent! (Very important). If you are 12 or under, your parent must stay with you during the session.
+Location:
 
-### Markdown
+We'll either be in the 1st floor Study Area (behind the reading room) or the Victoria Room (basement level). Library staff will be able to help you find the right place!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/harrogatecoderdojo/harrogatecoderdojo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you'd like to get involved in mentoring please [contact us](mailto:harrogate.uk@coderdojo.com)
