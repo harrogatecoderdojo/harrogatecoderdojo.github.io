@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Harrogate CoderDojo
 
-You can use the [editor on GitHub](https://github.com/harrogatecoderdojo/harrogatecoderdojo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We're a new Dojo and meet on 3rd Wednesday at Harrogate Library.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can book your free place by visiting out [CoderDojo page](https://www.coderdojo.com/harrogate/harrogate-harrogate-library)
+
+
 
 ### Markdown
 
