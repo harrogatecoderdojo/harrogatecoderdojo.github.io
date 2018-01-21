@@ -22,7 +22,7 @@ If you'd like to get involved in mentoring please [contact us](mailto:harrogate.
 
 Session #1 (Jan 18) - We coded using Scratch, Pygame, Mindstorms & Unreal Engine
 
-- (Scratch)[https://scratch.mit.edu]
-- (Python 'From blocks to code' using Trinket)[https://hourofpython.trinket.io/from-blocks-to-code-with-trinket]
-- (Unreal Engine)[https://docs.unrealengine.com/latest/INT/Videos/Basics/]
-- (Unity3D)[https://unity3d.com/learn/beginner-tutorials]
+- [Scratch](https://scratch.mit.edu)
+- [Python 'From blocks to code' using Trinket](https://hourofpython.trinket.io/from-blocks-to-code-with-trinket)
+- [Unreal Engine](https://docs.unrealengine.com/latest/INT/Videos/Basics/)
+- [Unity 3D](https://unity3d.com/learn/beginner-tutorials)
