@@ -2,7 +2,7 @@
 
 We're a new Dojo and meet on 3rd Wednesday at Harrogate Library.
 
-You can book your free place by visiting out [CoderDojo page](https://www.coderdojo.com/harrogate/harrogate-harrogate-library)
+You can book your free place by visiting out [CoderDojo page](https://zen.coderdojo.com/dojos/gb/harrogate/harrogate-harrogate-library)
 
 Our next meeting is on Wednesday 21 Febraury 2018 starting at 5pm and finishing promptly at 7pm when the library closes.
 
