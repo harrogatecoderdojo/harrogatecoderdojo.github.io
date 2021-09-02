@@ -1,8 +1,8 @@
 ## Welcome to Harrogate CoderDojo
 
-We're a Dojo that's run for about 3 years and meet on:
-* 3rd Wednesday of the month at Harrogate Library
-* 1st and 3rd Saturday of the month at Harrogate Everyman
+We're a Dojo that's run for about 3 years. We run both remote and face-to-face sessions!
+
+You can count 5 mentors among us and ~20 ninjas!
 
 You can book your free place by visiting out CoderDojo pages for [Harrogate Library](https://zen.coderdojo.com/dojos/gb/harrogate/harrogate-harrogate-library) or [Harrogate Everyman](https://zen.coderdojo.com/dojos/gb/harrogate/harrogate-everyman)
 
