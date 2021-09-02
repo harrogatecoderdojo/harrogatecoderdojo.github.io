@@ -1,18 +1,19 @@
 ## Welcome to Harrogate CoderDojo
 
-We're a new Dojo and meet on 3rd Wednesday at Harrogate Library.
+We're a Dojo that's run for about 3 years and meet on:
+* 3rd Wednesday of the month at Harrogate Library
+* 1st and 3rd Saturday of the month at Harrogate Everyman
 
 You can book your free place by visiting out CoderDojo pages for [Harrogate Library](https://zen.coderdojo.com/dojos/gb/harrogate/harrogate-harrogate-library) or [Harrogate Everyman](https://zen.coderdojo.com/dojos/gb/harrogate/harrogate-everyman)
 
 Our sessions run on:
-- 1st Sundays at the Harrogate Everyman (cafe area) between 10am and 1pm
+- 1st and 3rd Sundays at the Harrogate Everyman (cafe area) between 10am and 1pm
 - 3rd Wednesdays at the Harrogate Library (Study Area) starting at 5pm and finishing promptly by 7pm when the library closes
 
 Please bring:
 - A laptop. Borrow one from somebody if needs be. If you can't get hold of one, come along anyway and we'll try to lend you one or you can work with another Ninja.
 - Some ideas. If you have a great idea, we'll help you develop and code it. If you're a bit stuck, we'll help you with some project ideas.
 - A parent! (Very important). If you are 12 or under, your parent must stay with you during the session.
-Location:
 
 If you'd like to get involved in mentoring please [contact us](mailto:harrogate.uk@coderdojo.com)
 
