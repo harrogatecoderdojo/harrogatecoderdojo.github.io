@@ -26,7 +26,7 @@ We usually have 2-3 ninjas per session, so there's plenty of room for more!
 <section class="section" markdown="1">
 ## What to bring
 
-- **A laptop.** Borrow one from somebody if needs be. We don't have any to lend, but if you can't get hold of one you can still come along and work with another Ninja.
+- **A laptop, fully charged.** There are only a few places to charge it at the venue. Borrow one from somebody if needs be. We don't have any to lend, but if you can't get hold of one you can still come along and work with another Ninja.
 - **Some ideas.** If you have a great idea, we'll help you develop and code it. If you're a bit stuck, we'll help you with some project ideas.
 - **A parent!** (Very important). If you are 12 or under, your parent must stay with you during the session.
 </section>
