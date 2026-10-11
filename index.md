@@ -1,17 +1,16 @@
 ## Welcome to Harrogate CoderDojo
 
-We're a Dojo that's run for about 3 years. We run both remote and face-to-face sessions!
+We've been running since 2018, with face-to-face sessions at the Harrogate Everyman.
 
-You can count 5 mentors among us and ~20 ninjas!
+Our regular mentors are Tiago Correia ([@dosaki](https://github.com/dosaki)) and Josh Yaxley ([@WarcraftYax](https://github.com/WarcraftYax)). We usually have 2-3 ninjas per session, so there's plenty of room for more!
 
-You can book your free place by visiting out CoderDojo pages for [Harrogate Library](https://zen.coderdojo.com/dojos/gb/harrogate/harrogate-harrogate-library) or [Harrogate Everyman](https://zen.coderdojo.com/dojos/gb/harrogate/harrogate-everyman)
+You can find us and book your free place on our [Code Club page](https://codeclub.org/en/clubs/6999db56-03eb-4d39-acd4-6e38d4d1b0bc).
 
 Our sessions run on:
-- 1st and 3rd Sundays at the Harrogate Everyman (cafe area) between 10am and 1pm
-- 3rd Wednesdays at the Harrogate Library (Study Area) starting at 5pm and finishing promptly by 7pm when the library closes
+- 2nd Sunday of every month at the Harrogate Everyman (cafe area) between 10am and 12pm
 
 Please bring:
-- A laptop. Borrow one from somebody if needs be. If you can't get hold of one, come along anyway and we'll try to lend you one or you can work with another Ninja.
+- A laptop. Borrow one from somebody if needs be. We don't have any to lend, but if you can't get hold of one you can still come along and work with another Ninja.
 - Some ideas. If you have a great idea, we'll help you develop and code it. If you're a bit stuck, we'll help you with some project ideas.
 - A parent! (Very important). If you are 12 or under, your parent must stay with you during the session.
 
@@ -20,6 +19,8 @@ If you'd like to get involved in mentoring please [contact us](mailto:harrogate.
 ### Resources
 
 - [Scratch](https://scratch.mit.edu)
-- [Python 'From blocks to code' using Trinket](https://hourofpython.trinket.io/from-blocks-to-code-with-trinket)
-- [Unreal Engine](https://docs.unrealengine.com/latest/INT/Videos/Basics/)
-- [Unity 3D](https://unity3d.com/learn/beginner-tutorials)
+- [Raspberry Pi Projects](https://projects.raspberrypi.org)
+- [Python for Beginners](https://www.python.org/about/gettingstarted/)
+- [Godot](https://docs.godotengine.org/en/stable/getting_started/introduction/index.html)
+- [Unreal Engine](https://dev.epicgames.com/community/unreal-engine/learning)
+- [Unity Learn](https://learn.unity.com)
