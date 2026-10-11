@@ -11,7 +11,7 @@ We usually have 2-3 ninjas per session, so there's plenty of room for more!
 
 <section class="section">
   <h2>When and where</h2>
-  <div class="cards">
+  <div class="cards" id="upcoming-sessions" data-club-id="{{ site.code_club_id }}" data-venue="{{ site.data.sessions[0].venue }} · {{ site.data.sessions[0].area }}">
     {% for session in site.data.sessions %}
     <div class="card session">
       <p class="session-when">{{ session.when }}</p>
@@ -20,7 +20,7 @@ We usually have 2-3 ninjas per session, so there's plenty of room for more!
     </div>
     {% endfor %}
   </div>
-  <p><a class="button" href="{{ site.booking_url }}">Book on Code Club</a></p>
+  <script src="{{ '/assets/js/upcoming-sessions.js' | relative_url }}" defer></script>
 </section>
 
 <section class="section" markdown="1">

@@ -313,8 +313,32 @@ a.card:hover {
   font-weight: 800;
 }
 
-.session-time {
+.session-time,
+.session-availability {
   font-weight: 700;
+}
+
+.session-book {
+  display: inline-block;
+  margin-top: 14px;
+  padding: 6px 14px;
+  background: var(--surface);
+  color: var(--ink);
+  text-decoration: none;
+  border: 3px solid var(--edge);
+  border-radius: 10px;
+  box-shadow: 3px 3px 0 var(--drop);
+  transition: transform 0.12s ease, box-shadow 0.12s ease;
+}
+
+.session-book:hover {
+  transform: translate(-1px, -1px);
+  box-shadow: 4px 4px 0 var(--drop);
+}
+
+.session-book:active {
+  transform: translate(2px, 2px);
+  box-shadow: 1px 1px 0 var(--drop);
 }
 
 .mentor {
