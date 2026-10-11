@@ -1,3 +1,13 @@
-theme: jekyll-theme-hacker
 title: Harrogate CoderDojo
 description: Join us! Work on your projects with our mentors
+booking_url: https://codeclub.org/en/clubs/6999db56-03eb-4d39-acd4-6e38d4d1b0bc
+contact_email: harrogate.uk@coderdojo.com
+
+exclude:
+  - README.md
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

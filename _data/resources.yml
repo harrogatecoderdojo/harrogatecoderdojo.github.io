@@ -1,0 +1,18 @@
+- name: Scratch
+  url: https://scratch.mit.edu
+  blurb: Drag-and-drop coding. The perfect place to start.
+- name: Raspberry Pi Projects
+  url: https://projects.raspberrypi.org
+  blurb: Step-by-step projects for Scratch, Python, electronics and more.
+- name: Python
+  url: https://www.python.org/about/gettingstarted/
+  blurb: A real programming language that's great for beginners.
+- name: Godot
+  url: https://docs.godotengine.org/en/stable/getting_started/introduction/index.html
+  blurb: A free and open source engine for making 2D and 3D games.
+- name: Unreal Engine
+  url: https://dev.epicgames.com/community/unreal-engine/learning
+  blurb: Build stunning 3D games with the engine behind Fortnite.
+- name: Unity
+  url: https://learn.unity.com
+  blurb: Free courses for making games in Unity.
